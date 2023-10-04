@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "futurelovedata/static/css/main.64bab86b.css",
+    "main.js": "futurelovedata/static/js/main.963b327b.js",
+    "static/js/787.8e35b541.chunk.js": "futurelovedata/static/js/787.8e35b541.chunk.js",
+    "index.html": "futurelovedata/index.html",
+    "main.64bab86b.css.map": "futurelovedata/static/css/main.64bab86b.css.map",
+    "main.963b327b.js.map": "futurelovedata/static/js/main.963b327b.js.map",
+    "787.8e35b541.chunk.js.map": "futurelovedata/static/js/787.8e35b541.chunk.js.map"
+  },
+  "entrypoints": [
+    "futurelovedata/static/css/main.64bab86b.css",
+    "/futurelovedatastatic/js/main.963b327b.js"
+  ]
+}
